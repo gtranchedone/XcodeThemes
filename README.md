@@ -6,6 +6,8 @@ Custom Fonts &amp; Colors palette for Xcode's editor.
 Installation
 ------------
 
+Simply paste this into a new Terminal window :)
+
     git clone https://github.com/gtranchedone/XcodeThemes.git
     cd XcodeThemes/
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/

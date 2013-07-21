@@ -10,6 +10,8 @@ Installation
     cd XcodeThemes/
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    cd ..
+    rm -rf XcodeThemes/
     
 TODO
 ----

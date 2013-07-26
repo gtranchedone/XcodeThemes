@@ -31,7 +31,7 @@
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.12 0.31 0.34 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.0978856 0.104353 0.131856 1</string>
+	<string>0.0572971 0.0774379 0.081812 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
@@ -53,31 +53,31 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.742838 0.929947 0.488804 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.631859 0.996185 1 1</string>
+		<string>0 1 0.501961 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0 0.83696 1 1</string>
+		<string>0.0161427 0.891243 1 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0 0.449763 0.748824 1</string>
+		<string>0 0.808016 0.56805 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0 0.626 0.746 1</string>
+		<string>0.503457 0.669099 1 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.434434 0.747767 0.754 1</string>
+		<string>0.410323 0.971181 0.731901 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0 0.626 0.746 1</string>
+		<string>0 1 0.989149 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>1 0.632074 0.374587 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>1 0.632074 0.374587 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.53804 0.998813 1 1</string>
+		<string>0 1 0.501961 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0 0.83696 1 1</string>
+		<string>0.0161427 0.891243 1 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0 0.623533 0.764389 1</string>
+		<string>0 0.808016 0.56805 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0 0.626 0.746 1</string>
+		<string>0.503457 0.669099 1 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.883929 0.123913 0.687142 1</string>
+		<string>0.968381 0.317224 1 1</string>
 		<key>xcode.syntax.number</key>
 		<string>1 1 0.4 1</string>
 		<key>xcode.syntax.plain</key>

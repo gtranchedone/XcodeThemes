@@ -16,7 +16,9 @@ Simply paste this into a new Terminal window :)
     rm -rf XcodeThemes/
     
     
-TODO
+Anubis
 ----
 
-Add sample screenshots of the theme(s) in the README.md file.
+![Interface Sample](https://raw.github.com/gtranchedone/XcodeThemes/master/Anubis%20Class%20Interface%20Sample.png)
+
+![Implementation Sample](https://raw.github.com/gtranchedone/XcodeThemes/master/Anubis%20Class%20Implementation%20Sample.png)

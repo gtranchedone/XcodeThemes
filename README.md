@@ -11,10 +11,8 @@ Custom Color Schemes for Xcode are stored in the `~/Library/Developer/Xcode/User
 
 ### Installation using Alcatraz
 
-All themes in this repository will be available on [Alcatraz](https://github.com/supermarin/Alcatraz).
+All themes in this repository is or will soon be available on [Alcatraz](https://github.com/supermarin/Alcatraz).
 Once you have Alcatraz installed, installing the theme is done in Xcode's menu `Window -> Package Manager` simply by clicking on the Color Scheme you want to add to Xcode. You may need to restart Xcode to see the new themes.
-
-*Right now the only theme in this repository, Anubis, is pending insertion into Alcatraz.*
 
 ### Manual Installation
 
